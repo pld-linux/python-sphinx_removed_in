@@ -8,7 +8,7 @@ Summary:	Sphinx Removed In extension
 Summary(pl.UTF-8):	Rozszerzenie Sphinksa Removed In
 Name:		python-sphinx_removed_in
 Version:	0.2.1
-Release:	4
+Release:	5
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/sphinx-removed-in/
